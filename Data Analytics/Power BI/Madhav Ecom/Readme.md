@@ -9,7 +9,7 @@ All the resources (Csv(s)) files are included
 
 ## Screenshots.
 ### Home Page.
-![alt text](image-1.png)
+![alt text](Data Analytics/Power BI/Madhav Ecom/Screenshots/image-1.png)
 ### Quarterly results
 ![alt text](image.png)
 ### By State
