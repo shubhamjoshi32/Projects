@@ -10,9 +10,9 @@ All the resources (Csv(s)) files are included
 ## Screenshots.
 ### Home Page.
 ![alt text](Screenshots/image-1.png)
-### Quarterly results
+### Quarterly results.
 ![alt text](Screenshots/image.png)
-### By State
+### By State.
 ![alt text](Screenshots/image-4.png)
 ![alt text](Screenshots/image-3.png)
 
