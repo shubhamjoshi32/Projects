@@ -16,4 +16,4 @@ All the resources (Csv(s)) files are included
 ![alt text](Screenshots/image-4.png)
 ![alt text](Screenshots/image-3.png)
 
-To Download click [here]([text](https://downgit.evecalm.com/#/home?url=https://github.com/shubhamjoshi32/Projects/tree/main/Data%20Analytics/Power%20BI/Madhav%20Ecom)) 
+To Download click [here](https://downgit.evecalm.com/#/home?url=https://github.com/shubhamjoshi32/Projects/tree/main/Data%20Analytics/Power%20BI/Madhav%20Ecom)) 
