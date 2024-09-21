@@ -6,6 +6,7 @@
 - Streamlined data processing & analysis to monitor key performance metrics and trends.
 - Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 - Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, slicers, etc)
+- Matching theme used 
 
 ## Screenshots.
 ### Home Page.
