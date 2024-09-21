@@ -1,5 +1,5 @@
 # Credit card financial dashboard using Power BI:
-All the resources (Csv(s)) files are included
+
 ## Project Leanings
 
 - Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
@@ -9,4 +9,16 @@ All the resources (Csv(s)) files are included
 
 ## Screenshots.
 ### Home Page.
-![alt text](Screenshots/CCT Home.png)
+Credit Card Transaction Report Home Page
+![alt text](<Screenshots/CCT Home.png>)
+Credit Card Customer Report Home Page
+![alt text](<Screenshots/CCC R.png>)
+
+### Sliced / filtered by Quarterly.
+Credit Card Transaction Report Quarterly
+![alt text](<Screenshots/CCT Quarterly .png>)
+Credit Card Customer Report Quarterly
+![alt text](<Screenshots/CCC R Quarterly.png>)
+
+### Sliced / filtered by Gender.
+![alt text](<Screenshots/CCC by gender.png>)
