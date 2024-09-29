@@ -23,3 +23,8 @@ Credit Card Customer Report Quarterly
 
 ### Sliced / filtered by Gender.
 ![alt text](<Screenshots/CCC by gender.png>)
+
+- This project was made using Microsoft Power BI Desktop.
+- The SQL Database used here was Postgresql 17.0.
+- All of the CSVs and other files are given in 'CSVs etc' folder are given
+- You can download project from [here](https://downgit.evecalm.com/#/home?url=https://github.com/shubhamjoshi32/Projects/tree/main/Data%20Analytics/Power%20BI/Credit%20Card%20Report)
